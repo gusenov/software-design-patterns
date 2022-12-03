@@ -13,3 +13,5 @@
    - [Command](behavioral/command)
    - [Mediator](behavioral/mediator)
    - [Memento](behavioral/memento)
+   - [Visitor](behavioral/visitor)
+- [Concurrency](concurrency)
