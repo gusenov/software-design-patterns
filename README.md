@@ -7,3 +7,4 @@
    - [Adapter](struct/adapter)
    - [Bridge](struct/bridge)
    - [Decorator](struct/decorator)
+   - [Facade](struct/facade)
