@@ -2,3 +2,4 @@
    - [Factory](creational/factory/)
    - [Abstract factory](creational/abstract-factory)
    - [Builder](creational/builder)
+   - [Prototype](creational/prototype)
