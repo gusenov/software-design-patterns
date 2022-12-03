@@ -5,4 +5,5 @@
    - [Prototype](creational/prototype)
 - [Structural](struct)
    - [Adapter](struct/adapter)
+   - [Bridge](struct/bridge)
    - [Decorator](struct/decorator)
