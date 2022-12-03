@@ -8,3 +8,6 @@
    - [Bridge](struct/bridge)
    - [Decorator](struct/decorator)
    - [Facade](struct/facade)
+   - [Flyweight](struct/flyweight)
+- [Behavioral](behavioral)
+   - [Command](behavioral/command)
