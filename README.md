@@ -11,3 +11,4 @@
    - [Flyweight](struct/flyweight)
 - [Behavioral](behavioral)
    - [Command](behavioral/command)
+   - [Mediator](behavioral/mediator)
