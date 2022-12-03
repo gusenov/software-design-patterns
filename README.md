@@ -3,3 +3,5 @@
    - [Abstract factory](creational/abstract-factory)
    - [Builder](creational/builder)
    - [Prototype](creational/prototype)
+- [Structural](struct)
+   - [Adapter](struct/adapter)
